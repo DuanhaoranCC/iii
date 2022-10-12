@@ -33,7 +33,7 @@ PubMed:
   p2: 0.2
   rate: 0.3
   rate1: 0.8
-  w': 0.001
+  w: 0.001
   label_type: 0
   dim: 1024
   epoch: 200
